@@ -8,9 +8,9 @@ O objetivo deste projeto é a criação de testes.
 
 Os testes estão no caminho: `projeto_clientes/app_clientes/tests`
 
-## Teste de usabilidade
+## Teste manuais
 
-O arquivo `projeto_clientes/testes.md` descreve os teste manuais de contraste.
+O arquivo `projeto_clientes/testes.md` descreve os testes manuais de usabilidade. O teste feito é o de contraste.
 
 ## Boas práticas
 
